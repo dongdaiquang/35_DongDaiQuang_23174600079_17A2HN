@@ -1,0 +1,14 @@
+{
+    "company": {
+        "name": "Công ty TNHH Đất Việt",
+        "address": "abc Giải Phóng – Hà Nội"
+    },
+    "employees": [
+        {"name": "Nguyen Van A", "unit": "Đơn vị A1"},
+        {"name": "Tran Thi B", "unit": "Đơn vị A2"},
+        {"name": "Le Van C", "unit": "Đơn vị A1"},
+        {"name": "Hoang Thi D", "unit": "Đơn vị A3"},
+        {"name": "Pham Van E", "unit": "Đơn vị A4"},
+        {"name": "Nguyen Thi F", "unit": "Đơn vị A4"}
+    ]
+}
